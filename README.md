@@ -5,4 +5,4 @@ TP App Flutter - FreeToPlay
 ## Getting Started
 
 Précognisation :
-- utiliser un émulateur Android
+- utiliser un émulateur Android pour la feature Share
